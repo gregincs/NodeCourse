@@ -1,0 +1,19 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "exercise 2 from node complete guide",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "nodemon app.js"
+  },
+  "author": "Greg",
+  "license": "ISC"
+}
